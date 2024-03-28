@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.Lab8
+Exec=/usr/bin/ru.auroraos.Lab8
+Name=Ryabtsev8
+Name[ru]=Ryabtsev8
+
+[X-Sailjail]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=Lab8
+ExecDBus=/usr/bin/ru.auroraos.Lab8

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Block.qml</file>
+        <file>Cell.qml</file>
+        <file>Utils.js</file>
+        <file>Field.qml</file>
+        <file>Game.qml</file>
+        <file>Tetris.qml</file>
+        <file>MainMenu.qml</file>
+        <file>OptionsMenu.qml</file>
+        <file>SignedSlider.qml</file>
+    </qresource>
+</RCC>

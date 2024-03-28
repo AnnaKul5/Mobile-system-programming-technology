@@ -1,0 +1,2 @@
+# qmldir
+singleton Store Store.qml
